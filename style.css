@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700&display=swap");
 
 :root {
   --overlay-color: #03a9f4;
@@ -8,7 +8,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: "poppins", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .showcase {
@@ -43,8 +43,7 @@
 }
 
 .logo a img {
-  margin-top: 15px;
-  margin-left: -10px;
+  margin-left: -0.5em;
   height: 4em;
   width: 4em;
   overflow: hidden;
@@ -52,7 +51,7 @@
 
 .toggle {
   position: relative;
-  margin-top: -19px;
+  margin-top: -14px;
   width: 80px;
   height: 80px;
   background: url(/images/menu.png);
